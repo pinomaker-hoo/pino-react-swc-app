@@ -1,6 +1,6 @@
 {
   "name": "pino-react-swc-app",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Reaction boiler plate clone module using SWC and VITE",
   "main": "index.js",
   "author": "pinomaker",
